@@ -1,6 +1,6 @@
 // Calendar and down day counter for Faerun, Greyhawk, Eberron and Modern Settings
 // Created by Kirsty (https://app.roll20.net/users/1165285/kirsty)
-
+// Mystara Calendar added by Davemania
 // API Commands:
 // !cal - for the GM displays the menu in the chat window, for a player displays date, weather, moon(s) and down days
 
